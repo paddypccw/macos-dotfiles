@@ -1,8 +1,11 @@
 [user]
-	name = Patrick McDonald
-	email = 66495007+eieioxyz@users.noreply.github.com
+	name = Patrick OSullivan
+	email = 121835861+paddypccw@users.noreply.github.com
 
-
+[core]
+    excludesfile = ~/.gitignore_global
+[push]
+	autoSetupRemote = true
 
 # Other possible Git configurations.
 # - Set the default editor (nano, VS Code, etc.)

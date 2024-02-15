@@ -1,6 +1,4 @@
-PROMPT='
-Beyond Dotfiles in 100 Seconds:
-%1~ %# '
+PROMPT='%1~ %# '
 
 
 
