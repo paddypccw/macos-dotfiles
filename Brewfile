@@ -16,8 +16,6 @@ brew "aom"
 brew "direnv"
 # GNU compiler collection
 brew "gcc"
-# Cryptography and SSL/TLS Toolkit
-brew "openssl@1.1"
 # Toolkit for image loading and pixel buffer manipulation
 brew "gdk-pixbuf"
 # Library for JPEG-2000 image manipulation
@@ -46,10 +44,16 @@ brew "librsvg"
 brew "maven"
 # Open source relational database management system
 brew "mysql"
+# Platform built on V8 to build network applications
+brew "node"
+# Manage multiple Node.js versions
+brew "nvm"
 # Development kit for the Java programming language
 brew "openjdk@11"
 # C library to read whole-slide images (a.k.a. virtual slides)
 brew "openslide"
+# Cryptography and SSL/TLS Toolkit
+brew "openssl@1.1"
 # PDF rendering library (based on the xpdf-3.0 code base)
 brew "poppler"
 # Object-relational database system
@@ -58,8 +62,16 @@ brew "postgresql@14"
 brew "sonar-scanner"
 # Image processing library
 brew "vips"
+# UNIX shell (command interpreter)
+brew "zsh"
 # This package contains standard utilities for interacting with MongoDB.
 brew "mongodb/brew/mongodb-database-tools"
+# High-performance, schema-free, document-oriented database
+brew "mongodb/brew/mongodb-community@4.4"
 brew "orangekame3/tap/paclear"
-
+# Opensource IDE for exploring and testing api's
+cask "bruno"
+# App to build and share containerised applications and microservices
+cask "docker"
+# Open-source code editor
 cask "visual-studio-code"
