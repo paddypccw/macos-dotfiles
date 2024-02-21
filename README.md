@@ -31,6 +31,7 @@ git clone https://github.com/paddypccw/macos-dotfiles ~/.dotfiles
 
 ln -s ~/.dotfiles/.zshrc ~/.zshrc
 ln -s ~/.dotfiles/.gitconfig ~/.gitconfig
+ln -s ~/.dotfiles/.gitignore_global ~/.gitignore_global
 ```
 
 

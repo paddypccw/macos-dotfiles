@@ -1,0 +1,26 @@
+.DS_Store
+*.iml
+*.ipr
+*.iws
+*.ids
+out
+target
+build
+tmp
+git.properties
+.idea
+*.class
+node_modules
+
+
+# Package Files #
+*.jar
+*.war
+
+# node reports
+report.*.json
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.flattened-pom.xml
