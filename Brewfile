@@ -73,5 +73,10 @@ brew "orangekame3/tap/paclear"
 cask "bruno"
 # App to build and share containerised applications and microservices
 cask "docker"
+# Interactive tool for analyzing MongoDB data
+cask "mongodb-compass"
 # Open-source code editor
 cask "visual-studio-code"
+vscode "eamodio.gitlens"
+vscode "sonarsource.sonarlint-vscode"
+vscode "wayou.vscode-todo-highlight"
