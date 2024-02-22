@@ -11,7 +11,7 @@ git.properties
 .idea
 *.class
 node_modules
-
+Brewfile.lock.json
 
 # Package Files #
 *.jar
