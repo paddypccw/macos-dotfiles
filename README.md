@@ -16,7 +16,7 @@ xcode-select --install
 
 ```zsh
 # Use SSH (if set up)...
-git clone https://github.com/paddypccw/macos-dotfiles ~/.dotfiles
+git clone git@github.com:paddypccw/macos-dotfiles.git ~/.dotfiles
 
 # ...or use HTTPS and switch remotes later.
 git clone https://github.com/paddypccw/macos-dotfiles ~/.dotfiles
